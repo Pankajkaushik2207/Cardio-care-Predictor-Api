@@ -10,8 +10,8 @@
 ## Useful Links
 
 - Deployed on OnRender: [Onrender Link](https://cardio-care-predictor-api.onrender.com/)
-- View the Jupyter Notebook: [Jupyter Notebook](https://github.com/amansrv/Cardio-Care-Predictor-API/blob/main/model/HeartDisease.ipynb)
-- Flask REST API: [API](https://github.com/amansrv/Cardio-Care-Predictor-API/blob/main/app.py)
+- View the Jupyter Notebook: [Jupyter Notebook](https://github.com/Pankajkaushik2207/Cardio-care-Predictor-Api/blob/main/model/HeartDisease.ipynb)
+- Flask REST API: [API](https://github.com/Pankajkaushik2207/Cardio-care-Predictor-Api/blob/main/app.py)
 
 ## Predict Endpoint
 
@@ -57,7 +57,7 @@
 1. Clone the repository
 
    ```bash
-      git clone https://github.com/amansrv/Cardio-Care-Predictor-API.git
+      git clone https://github.com/Pankajkaushik2207/Cardio-care-Predictor-Api.git
 	
       cd Cardio-Care-Predictor-API
    ```
